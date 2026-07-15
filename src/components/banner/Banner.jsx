@@ -1,5 +1,5 @@
 const Banner = () => {
-  return <div>Banner</div>;
+  return <div>laylo</div>;
 };
 
 export default Banner;
