@@ -1,5 +1,7 @@
+import React from "react";
+
 const Banner = () => {
-  return <div>laylo</div>;
+  return <div>Banner</div>;
 };
 
 export default Banner;

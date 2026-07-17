@@ -1,7 +1,7 @@
+import React from "react";
+
 const Team = () => {
-  return( 
-  <div>Bahriddin_UZB  </div>
-  )
+  return <div>Team</div>;
 };
 
 export default Team;
